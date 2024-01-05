@@ -15,7 +15,7 @@ public class GetController {
     }
     @GetMapping(value = "/name")
     public String getName(){
-        return "Flature";
+        return "SeongmiLee";
     }
 
     public class ABCTest{}
