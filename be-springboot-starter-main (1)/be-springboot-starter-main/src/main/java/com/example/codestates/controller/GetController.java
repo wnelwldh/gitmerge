@@ -19,7 +19,4 @@ public class GetController {
     }
 
     public class ABCTest{}
-    public String getschool(){
-        return "myschool";
-    }
 }
