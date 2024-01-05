@@ -17,6 +17,8 @@ public class GetController {
     public String getName(){
         return "SeongmiLee";
     }
+
+    public class ABCTest{}
     public String getschool(){
         return "myschool";
     }
