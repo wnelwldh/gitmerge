@@ -17,4 +17,7 @@ public class GetController {
     public String getName(){
         return "SeongmiLee";
     }
+    public String getschool(){
+        return "myschool";
+    }
 }
