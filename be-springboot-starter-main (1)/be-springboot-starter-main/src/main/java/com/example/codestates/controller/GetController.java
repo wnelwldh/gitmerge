@@ -17,4 +17,6 @@ public class GetController {
     public String getName(){
         return "Flature";
     }
+
+    public class ABCTest{}
 }
